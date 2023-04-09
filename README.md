@@ -6,3 +6,4 @@ The amount of rainfall has an effect on a variety of businesses and sectors, inc
 
 ### Code
 All code in this study was written in Python and ran on GoogleColab. 
++ 'Multiple_Linear_Regression.ipynb'
