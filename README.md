@@ -6,4 +6,4 @@ The amount of rainfall has an effect on a variety of businesses and sectors, inc
 
 ### Code
 All code in this study was written in Python and ran on GoogleColab. 
-+ 'Multiple_Linear_Regression.ipynb'
++ `Multiple_Linear_Regression.ipynb`: This file contains the code for multiple linear regression for predicting rainfall. This file also includes the performance metrics MSE and R<sup>2</sup> value.
