@@ -1,1 +1,1 @@
-# Dimension_Reduction
+# Studying the Impact of Dimensionality Reduction on Rainfall Prediction
